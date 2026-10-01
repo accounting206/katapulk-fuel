@@ -1,0 +1,7 @@
+# El núcleo (base de datos, CLI, emails, alertas, reportes) solo usa la librería estándar de Python.
+# Estos paquetes son para el dashboard y para leer PDFs adjuntos:
+streamlit>=1.35
+pandas>=2.0
+pypdf>=4.0
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.0

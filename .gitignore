@@ -1,0 +1,14 @@
+# Claves: NUNCA se suben
+.env
+credentials.json
+token.json
+
+# Se sube data/katapulk_fuel.db (la rutina en la nube la necesita); no las copias ni la base de prueba
+data/*.bak
+data/demo.db
+data/*.db-journal
+
+# Generados en cada ejecución
+logs/
+__pycache__/
+.claude/
