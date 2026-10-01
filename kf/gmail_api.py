@@ -7,6 +7,7 @@ Permiso pedido: solo lectura (gmail.readonly).
 """
 import base64
 import email
+import json
 import os
 import time
 from email.utils import parsedate_to_datetime
@@ -24,6 +25,14 @@ def service():
     from google.oauth2.credentials import Credentials
     from google_auth_oauthlib.flow import InstalledAppFlow
     from googleapiclient.discovery import build
+
+    # En la nube la clave viene en la variable de entorno KF_GOOGLE_TOKEN (contenido de token.json)
+    env_token = os.environ.get("KF_GOOGLE_TOKEN")
+    if env_token:
+        creds = Credentials.from_authorized_user_info(json.loads(env_token), SCOPES)
+        if not creds.valid:
+            creds.refresh(Request())
+        return build("gmail", "v1", credentials=creds, cache_discovery=False)
 
     creds = Credentials.from_authorized_user_file(str(TOKEN), SCOPES) if TOKEN.exists() else None
     if not creds or not creds.valid:

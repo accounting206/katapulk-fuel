@@ -306,7 +306,7 @@ def reprocess(conn):
 
 def run(conn, limit=200):
     """Usa la API de Google si existe credentials.json; si no, IMAP con contraseña de aplicación."""
-    if (ROOT / "credentials.json").exists():
+    if (ROOT / "credentials.json").exists() or os.environ.get("KF_GOOGLE_TOKEN"):
         from .gmail_api import fetch as source
     else:
         source = fetch

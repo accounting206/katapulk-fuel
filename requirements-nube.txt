@@ -1,0 +1,4 @@
+# Lo mínimo para la rutina en la nube (sin dashboard)
+pypdf>=4.0
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.0
