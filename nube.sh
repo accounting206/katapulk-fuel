@@ -1,14 +1,15 @@
 #!/usr/bin/env bash
 # Rutina en la nube (la ejecuta la rutina de Claude a las 7:00 y 13:00, hora de Miami).
-# Requiere la variable de entorno KF_GOOGLE_TOKEN (contenido de token.json) configurada en el entorno de la nube.
+# Requiere en el entorno de la nube: variable KF_GOOGLE_CLIENT_ID y la credencial 'Body parameter'
+# para oauth2.googleapis.com/token con refresh_token y client_secret (ver README, sección Nube).
 set -euo pipefail
 cd "$(dirname "$0")"
 export PYTHONIOENCODING=utf-8
 export TZ=America/New_York
 HOY=$(date +%Y-%m-%d)
 
-if [ -z "${KF_GOOGLE_TOKEN:-}" ]; then
-  echo "ERROR: falta KF_GOOGLE_TOKEN en el entorno de la nube (ver README, sección Nube)."
+if [ -z "${KF_GOOGLE_CLIENT_ID:-}${KF_GOOGLE_TOKEN:-}" ]; then
+  echo "ERROR: falta KF_GOOGLE_CLIENT_ID en las variables del entorno de la nube (ver README, sección Nube)."
   exit 2
 fi
 

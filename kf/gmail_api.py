@@ -26,7 +26,15 @@ def service():
     from google_auth_oauthlib.flow import InstalledAppFlow
     from googleapiclient.discovery import build
 
-    # En la nube la clave viene en la variable de entorno KF_GOOGLE_TOKEN (contenido de token.json)
+    # Nube: la clave secreta (refresh_token y client_secret) NO está en la rutina. Se pide un token de acceso
+    # a Google enviando solo el client_id; el proxy de la nube inyecta los secretos en esa solicitud
+    # ("Credenciales de API" tipo Body parameter para oauth2.googleapis.com/token).
+    client_id = os.environ.get("KF_GOOGLE_CLIENT_ID")
+    if client_id:
+        return build("gmail", "v1", http=_cloud_http(Credentials(token=_cloud_access_token(client_id))),
+                     cache_discovery=False)
+
+    # Alternativa: token completo en KF_GOOGLE_TOKEN (contenido de token.json)
     env_token = os.environ.get("KF_GOOGLE_TOKEN")
     if env_token:
         creds = Credentials.from_authorized_user_info(json.loads(env_token), SCOPES)
@@ -44,6 +52,29 @@ def service():
             creds = InstalledAppFlow.from_client_secrets_file(str(CREDENTIALS), SCOPES).run_local_server(port=0)
         TOKEN.write_text(creds.to_json(), encoding="utf-8")
     return build("gmail", "v1", credentials=creds, cache_discovery=False)
+
+
+def _cloud_access_token(client_id):
+    """Pide un token de acceso de 1 hora. refresh_token y client_secret los agrega el proxy de la nube."""
+    import urllib.parse
+    import urllib.request
+    data = urllib.parse.urlencode({"client_id": client_id, "grant_type": "refresh_token"}).encode()
+    req = urllib.request.Request("https://oauth2.googleapis.com/token", data=data,
+                                 headers={"Content-Type": "application/x-www-form-urlencoded"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read())["access_token"]
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"Google rechazó la renovación de la clave ({e.code}): {e.read()[:300]!r}. "
+                         "Revisar la credencial 'Body parameter' del entorno de la nube.")
+
+
+def _cloud_http(creds):
+    """Cliente HTTP que respeta el proxy y el certificado del entorno de la nube."""
+    import google_auth_httplib2
+    import httplib2
+    ca = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
+    return google_auth_httplib2.AuthorizedHttp(creds, http=httplib2.Http(ca_certs=ca, timeout=120))
 
 
 def _execute(request, tries=6):

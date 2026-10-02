@@ -1,0 +1,33 @@
+PAGOS URGENTES — 02/10/2026
+
+1. [BLOQUEO] Seaboard
+   Por qué: 2026-09-17: RE: HOLD RELEASE – HOU9184780A / HOU9184782A / HOU9184737A / HOU9184742A / HOU91
+   Qué hacer: Pagar / confirmar pago para liberar la carga
+   Ref: 2026-09-17
+2. [DEPÓSITO] NueFuel — $514,290.00
+   Por qué: Invoice provisional #KML3576R ($1,958,766) pide depósito antes de cargar
+   Qué hacer: Pagar depósito si se va a cargar este pedido
+   Ref: KML3576R
+3. [COBRO] World Fuel — $837,498.71
+   Por qué: 28 invoice(s) abiertas, la más vieja de hace 43 días. Último cobro 2026-09-28: Katapulk Marketplace LLC                 Ascent Invoice # 12
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: 1224906, 1224908, 1225462, 1225466, 1225473, 1225463, 1225465, 1225476, 1225477, 1225467, 1225469, 1225472, 1226082, 122
+4. [COBRO] CCS (Crowley demurrage) — $46,550.00
+   Por qué: 34 invoice(s) abiertas, la más vieja de hace 102 días. Último cobro 2026-09-30: KATAPULK MARKETPLACE LLC(61791) SECOND REMINDER $46,150.00
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: CLU242713E, CLU242715E, CLU242716E, CLU242717E, CLU243302E, CLU243303E, CLU243304E, CLU244915E, CLU245600E, CLU246546E, 
+5. [COBRO] Ushine Trucking — $33,000.00
+   Por qué: 5 invoice(s) abiertas, la más vieja de hace 75 días. Último cobro 2026-09-20: Resumen de Viajes y Pagos Pendientes – FAC0025, FAC0026, FAC
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
+6. [SALDO] Port Consolidated — $221,233.74
+   Por qué: 9 invoice(s) abiertas, la más vieja de hace 93 días (sin cobro reciente)
+   Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
+   Ref: 4361849-3, 4361849, 4364284-3, 4364284-1, 4364284, 4364284-4, 4364284-5, 4364284-2, 4364284-6
+
+Total en la lista: $1,652,572.45
+
+CRÉDITOS A FAVOR (no pagar de más):
+   Crowley: $154,258.46 — 6 pago(s) con dinero sin aplicar a invoices
+   Triton Energy: $3,189.74 — 1 pago(s) con dinero sin aplicar a invoices
+   Port Consolidated: $2,646.32 — 1 pago(s) con dinero sin aplicar a invoices
