@@ -13,7 +13,9 @@ New-Item -ItemType Directory -Force logs, reportes | Out-Null
 $log = "logs\rutina_$(Get-Date -Format yyyy-MM-dd).log"
 "==== $(Get-Date -Format 'yyyy-MM-dd HH:mm') ====" | Out-File -Append -Encoding utf8 $log
 
-# 1) Traer lo que hizo la nube (si el dashboard tiene la base abierta, se reintenta en la próxima)
+# 1) Traer lo que hizo la nube. Cambios locales sin guardar en la base son solo "toques" (la nube manda);
+#    los pagos manuales ya quedaron guardados en un commit, así que no se pierden.
+& $git checkout -- data/katapulk_fuel.db reportes *>&1 | Out-Null
 & $git pull -q --rebase origin main *>&1 | Out-File -Append -Encoding utf8 $log
 
 if ($Local) {

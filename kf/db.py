@@ -29,14 +29,27 @@ _MIGRATIONS = [
 
 
 def init_db(conn: sqlite3.Connection) -> None:
+    """Crea o actualiza el esquema. Si schema.sql no cambió, NO escribe nada en la base: así una simple
+    consulta en la laptop no 'modifica' el archivo y no bloquea la descarga de la versión de la nube."""
+    import hashlib
+    schema = (ROOT / "schema.sql").read_text(encoding="utf-8")
+    version = hashlib.sha1((schema + repr(_MIGRATIONS)).encode()).hexdigest()
+    try:
+        row = conn.execute("SELECT value FROM meta WHERE key = 'schema_version'").fetchone()
+        if row and row[0] == version:
+            return
+    except sqlite3.OperationalError:
+        pass                                   # base nueva o sin tabla meta
     for table, col, typ in _MIGRATIONS:
         cols = [r[1] for r in conn.execute(f"PRAGMA table_info({table})")]
         if cols and col not in cols:
             conn.execute(f"ALTER TABLE {table} ADD COLUMN {col} {typ}")
-    # Las vistas no guardan datos: se recrean siempre para tomar la versión actual de schema.sql
+    # Las vistas no guardan datos: se recrean para tomar la versión actual de schema.sql
     for (view,) in conn.execute("SELECT name FROM sqlite_master WHERE type='view'").fetchall():
         conn.execute(f"DROP VIEW {view}")
-    conn.executescript((ROOT / "schema.sql").read_text(encoding="utf-8"))
+    conn.executescript(schema)
+    conn.execute("CREATE TABLE IF NOT EXISTS meta (key TEXT PRIMARY KEY, value TEXT)")
+    conn.execute("INSERT OR REPLACE INTO meta VALUES ('schema_version', ?)", (version,))
     conn.commit()
 
 
