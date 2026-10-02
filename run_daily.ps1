@@ -1,26 +1,38 @@
-# Rutina diaria: leer Gmail, cruzar pagos con invoices, generar reporte y alertas.
-# La corre sola el Programador de tareas de Windows (tarea "Katapulk Fuel - rutina diaria").
-# También se puede correr a mano:  powershell -ExecutionPolicy Bypass -File run_daily.ps1
+# Laptop: SOLO sincroniza y avisa. El trabajo (leer Gmail, actualizar la base, pagos urgentes) lo hace
+# la rutina de Claude en la nube a las 7:00 y 13:00 y lo guarda en GitHub.
+# Esta tarea (Programador de tareas "Katapulk Fuel - rutina diaria") descarga lo último y muestra
+# la notificación de pagos urgentes en Windows.
+# Para procesar en la laptop como antes (por ejemplo, si la nube falla):  run_daily.ps1 -Local
+param([switch]$Local)
 Set-Location $PSScriptRoot
 $env:PYTHONIOENCODING = "utf-8"
 $py = "$env:LOCALAPPDATA\Programs\Python\Python312\python.exe"
 if (-not (Test-Path $py)) { $py = "python" }
-
+$git = "C:\Program Files\Git\cmd\git.exe"
 New-Item -ItemType Directory -Force logs, reportes | Out-Null
 $log = "logs\rutina_$(Get-Date -Format yyyy-MM-dd).log"
-
 "==== $(Get-Date -Format 'yyyy-MM-dd HH:mm') ====" | Out-File -Append -Encoding utf8 $log
-& $py cli.py email --limit 500 *>&1 | Out-File -Append -Encoding utf8 $log
-& $py cli.py estados           *>&1 | Out-File -Append -Encoding utf8 $log
-& $py cli.py auto-apply        *>&1 | Out-File -Append -Encoding utf8 $log
-& $py cli.py report --out reportes *>&1 | Out-File -Append -Encoding utf8 $log
-& $py cli.py alerts > "reportes\alertas_$(Get-Date -Format yyyy-MM-dd).txt" 2>&1
-& $py cli.py pagos --out reportes *>&1 | Out-Null
 
-# Notificación de Windows con el resumen de pagos urgentes (clic -> abre el reporte)
+# 1) Traer lo que hizo la nube (si el dashboard tiene la base abierta, se reintenta en la próxima)
+& $git pull -q --rebase origin main *>&1 | Out-File -Append -Encoding utf8 $log
+
+if ($Local) {
+    & $py cli.py email --limit 500 *>&1 | Out-File -Append -Encoding utf8 $log
+    & $py cli.py estados           *>&1 | Out-File -Append -Encoding utf8 $log
+    & $py cli.py auto-apply        *>&1 | Out-File -Append -Encoding utf8 $log
+    & $py cli.py report --out reportes *>&1 | Out-File -Append -Encoding utf8 $log
+    & $py cli.py pagos --out reportes *>&1 | Out-Null
+    & $git add data/katapulk_fuel.db reportes
+    & $git commit -q -m "Rutina laptop $(Get-Date -Format 'yyyy-MM-dd HH:mm')" *>&1 | Out-Null
+    & $git push -q origin main *>&1 | Out-File -Append -Encoding utf8 $log
+}
+
+# 2) Notificación de Windows con el resumen de pagos urgentes (clic -> abre el reporte)
 try {
     $resumen = (& $py cli.py pagos --resumen | Out-String).Trim()
-    $archivo = (Resolve-Path "reportes\pagos_urgentes_$(Get-Date -Format yyyy-MM-dd).txt").Path
+    $hoy = "reportes\pagos_urgentes_$(Get-Date -Format yyyy-MM-dd).txt"
+    if (-not (Test-Path $hoy)) { & $py cli.py pagos --out reportes | Out-Null }
+    $archivo = (Resolve-Path $hoy).Path
     [Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] | Out-Null
     [Windows.Data.Xml.Dom.XmlDocument, Windows.Data.Xml.Dom.XmlDocument, ContentType = WindowsRuntime] | Out-Null
     $esc = [Security.SecurityElement]::Escape($resumen)

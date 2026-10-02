@@ -124,6 +124,9 @@ def main(argv=None, replay=False):
     sub.add_parser("rebuild", help="Reconstruye la base: datos_iniciales.py + emails guardados (sin bajar de Gmail)")
     argv = list(sys.argv[1:] if argv is None else argv)
     a = ap.parse_args(argv)
+    sync = a.cmd in MANUAL and not replay and _on_laptop()
+    if sync:
+        _git("pull", "-q", "--rebase", "origin", "main")     # traer lo último de la nube antes de cambiar
 
     conn = connect()
     init_db(conn)                      # idempotente: crea lo que falte
@@ -266,6 +269,26 @@ def main(argv=None, replay=False):
             args = (a.file, None, "", Path(a.file).stem, raw.decode("utf-8", "replace"))
         print(email_ingest.process_message(conn, *args) or "Ya procesado o no relevante")
     conn.commit()
+    conn.close()
+    if sync:                                                 # subir el cambio para que la nube lo use
+        _git("add", "data/katapulk_fuel.db")
+        _git("commit", "-q", "-m", "Manual: " + " ".join(argv)[:120])
+        if _git("push", "-q", "origin", "main") != 0:
+            print("AVISO: no se pudo subir el cambio a GitHub; se subirá en la próxima sincronización.")
+
+
+GIT = Path(r"C:\Program Files\Git\cmd\git.exe")
+
+
+def _on_laptop():
+    """En la laptop (con repo git y sin las variables de la nube) los cambios manuales se sincronizan."""
+    import os
+    return (Path(__file__).parent / ".git").exists() and GIT.exists() and not os.environ.get("KF_GOOGLE_CLIENT_ID")
+
+
+def _git(*args):
+    import subprocess
+    return subprocess.run([str(GIT), *args], cwd=Path(__file__).parent, capture_output=True).returncode
 
 
 if __name__ == "__main__":
