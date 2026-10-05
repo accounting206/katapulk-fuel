@@ -26,6 +26,7 @@
 [ALTA] Pago pendiente                   HOU9184782A                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40249785002               Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   9196581A                     Booking en movimiento sin marcar como pagado
+[ALTA] Invoice nueva                    Crowley #CLI26001358015      $4,005.00
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (34) Saldo $46,550.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 28 más
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
@@ -48,7 +49,7 @@
 [MEDIA] Pagado, falta invoice            Crowley / CAT40270958        Pagado $4,080.00, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Port Consolidated / CAT40262783 + CAT40262784 Pagado $219,623.93, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            World Fuel / CAT40226378 + CAT40226550 Pagado $30,000.00, todavía no llegó la invoice
-[ALTA] Pago con crédito disponible      Crowley wire F01618909BC801  Pagado $85,434.08, aplicado $59,554.35, crédito $25,879.73
+[ALTA] Pago con crédito disponible      Crowley wire F01618909BC801  Pagado $85,434.08, aplicado $63,559.35, crédito $21,874.73
 [ALTA] Pago con crédito disponible      Crowley wire 12              Pagado $35,050.00, aplicado $0.00, crédito $35,050.00
 [ALTA] Pago con crédito disponible      Crowley wire 20              Pagado $29,260.00, aplicado $0.00, crédito $29,260.00
 [ALTA] Pago con crédito disponible      Crowley wire F0162580BAE501  Pagado $65,160.00, aplicado $38,295.00, crédito $26,865.00
@@ -57,10 +58,12 @@
 [ALTA] Pago con crédito disponible      Triton Energy wire 32        Pagado $213,418.88, aplicado $210,229.14, crédito $3,189.74
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: doc_problem             2026-10-05                   RE: [EXTERNAL] Payment Confirmation – Quote #177 (2 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-05                   RE: Thank you for your request. Case 10015854 has been created. (11 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-05                   QUETZAL / CUB6124 – IMO attached, Arrival Notice pending (4 msgs)
 [MEDIA] Revisar: release                 2026-10-05                   Re: RE:  KATAPULK MARKETPLACE // RELEASES // ETA 10/3/2026
 [MEDIA] Revisar: invoice                 2026-10-02                   RE: Commercial Invoices ISO Tank Returns CAT40268984 - CAT40268986 (BROKER REF# 0871431) - (4 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-02                   Re: Return ISO tanks KATAPULK MARKETPLACE LLC (7 msgs)
-[MEDIA] Revisar: doc_problem             2026-10-02                   Re: Thank you for your request. Case 10015854 has been created. (10 msgs)
 [MEDIA] Revisar: invoice                 2026-10-02                   Fwd: Payment confirmation: Invoice #1430-(Nathan Brown, CPA) (2 msgs)
 [MEDIA] Revisar: invoice                 2026-09-30                   RE: BKG 9203946A Katapulk New Bookings Request to Ship - 35 x 40'DRY Units (to carry 20 IB (4 msgs)
 [MEDIA] Revisar: booking_change          2026-09-30                   Re: BK#9224051A- Katapulk New Bookings Request to Ship - 12 x 40'DRY Units (to carry 25 IB (5 msgs)
@@ -70,7 +73,6 @@
 [MEDIA] Revisar: doc_problem             2026-09-30                   Re: [EXTERNAL] Fuel Order Request: EcomNexus/Katapulk - Bookings HOU9224051A, HOU9224272A, (6 msgs)
 [MEDIA] Revisar: booking_change          2026-09-29                   RE: BK#9224272A,BK#9224301A,BK#9224335A,BK#9224385A-Katapulk New Bookings Request to Ship  (4 msgs)
 [MEDIA] Revisar: doc_problem             2026-09-29                   RE: URGENT correction  Notify Party on B/L CWPS26265124 (CAT40262737) (3 msgs)
-[MEDIA] Revisar: arrival_notice, release 2026-09-29                   QUETZAL / CUB6124 – IMO attached, Arrival Notice pending (3 msgs)
 [MEDIA] Revisar: invoice                 2026-09-28                   RE: CAT40262737  10 ISO Tanks Gasoline (UN1203)  Invoice & Packing List (2 msgs)
 [MEDIA] Revisar: invoice                 2026-09-28                   Re: [EXTERNAL] Katapulk’s current account status - Totes cargo. (2 msgs)
 [MEDIA] Revisar: doc_problem, invoice    2026-09-28                   RE: BKG 9196581A – 8 ISO Tanks Gasoline (UN1203) Miami – Shipping Instructions / SCC statu (5 msgs)
