@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rutina en la nube (la ejecuta la rutina de Claude a las 7:00 y 13:00, hora de Miami).
+# Rutina en la nube (la ejecuta la rutina de Claude a las 9:00 y 13:00, hora de Miami).
 # Requiere en el entorno de la nube: variable KF_GOOGLE_CLIENT_ID y la credencial 'Body parameter'
 # para oauth2.googleapis.com/token con refresh_token y client_secret (ver README, sección Nube).
 set -euo pipefail
@@ -13,7 +13,17 @@ if [ -z "${KF_GOOGLE_CLIENT_ID:-}${KF_GOOGLE_TOKEN:-}" ]; then
   exit 2
 fi
 
-python3 -m pip install -q -r requirements-nube.txt >/dev/null 2>&1 || python3 -m pip install -q --user -r requirements-nube.txt
+# Entorno de Python propio (.venv-nube), separado de las librerías del sistema: la 'cryptography'
+# del sistema choca con la que trae pip (PanicException al importar google.auth).
+if python3 -m venv .venv-nube >/dev/null 2>&1; then
+  . .venv-nube/bin/activate
+  python3 -m pip install -q --upgrade pip >/dev/null 2>&1 || true
+  python3 -m pip install -q -r requirements-nube.txt
+else
+  python3 -m pip install -q -r requirements-nube.txt >/dev/null 2>&1 || python3 -m pip install -q --user -r requirements-nube.txt
+  python3 -m pip install -q --force-reinstall --no-cache-dir cryptography cffi
+fi
+python3 -c "import google.auth.transport.requests" || { echo "ERROR: las librerías de Google no cargan en la nube."; exit 4; }
 
 mkdir -p logs reportes
 python3 cli.py email --limit 500 > "logs/email_$HOY.log" 2>&1 || { echo "ERROR leyendo Gmail:"; tail -20 "logs/email_$HOY.log"; exit 3; }
