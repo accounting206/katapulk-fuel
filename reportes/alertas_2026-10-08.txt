@@ -27,13 +27,17 @@
 [ALTA] Pago pendiente                   CAT40249785002               Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   9196581A                     Booking en movimiento sin marcar como pagado
 [ALTA] Invoice nueva                    Crowley #0872024             $1,458.44
-[ALTA] Invoices con saldo               CCS (Crowley demurrage) (41) Saldo $49,650.00: #CLU243968E $100 (CAT40151590), #CLU248851E $2,500 (CAT40175106), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607) … y 35 más
+[ALTA] Invoice nueva                    Crowley #1278                $270,900.00
+[ALTA] Invoice nueva                    Crowley #1288                $105,350.00
+[ALTA] Invoices con saldo               CCS (Crowley demurrage) (41) Saldo $49,650.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 35 más
+[ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
 [ALTA] Invoices con saldo               World Fuel (28)              Saldo $837,498.71: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 22 más
 [MEDIA] Invoice provisional              NueFuel #KML3576R            $1,958,766.00 — depósito requerido $514,290.00; galones: 142,600 + 322,400 (no cuenta en saldos hasta la invoice final)
 [ALTA] Factura no coincide con pago     Crowley / CAT40262737        Facturado $38,795.00 vs pagado $38,295.00 → falta pagar $500.00
 [ALTA] Factura no coincide con pago     Crowley / CAT40262783        Facturado $19,245.00 vs pagado $23,075.80 → pagamos de más $3,830.80
+[ALTA] Factura no coincide con pago     Crowley / CAT40268984        Facturado $270,900.00 vs pagado $24,480.00 → falta pagar $246,420.00
 [ALTA] Factura no coincide con pago     World Fuel / CAT40160516     Facturado $110,037.12 vs pagado $73,243.46 → falta pagar $36,793.66
 [ALTA] Factura no coincide con pago     World Fuel / CAT40249823     Facturado $264,666.93 vs pagado $35,000.00 → falta pagar $229,666.93
 [ALTA] Factura no coincide con pago     World Fuel / CAT40262737     Facturado $344,264.57 vs pagado $81,919.53 → falta pagar $262,345.04
@@ -44,23 +48,21 @@
 [MEDIA] Pagado, falta invoice            Crowley / CAT40252791        Pagado $9,450.00, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Crowley / CAT40262784        Pagado $4,771.16, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Crowley / CAT40263690        Pagado $4,005.00, todavía no llegó la invoice
-[MEDIA] Pagado, falta invoice            Crowley / CAT40268984        Pagado $24,480.00, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Crowley / CAT40268986        Pagado $2,720.00, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Crowley / CAT40270958        Pagado $4,080.00, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            Port Consolidated / CAT40262783 + CAT40262784 Pagado $219,623.93, todavía no llegó la invoice
 [MEDIA] Pagado, falta invoice            World Fuel / CAT40226378 + CAT40226550 Pagado $30,000.00, todavía no llegó la invoice
-[ALTA] Pago con crédito disponible      Crowley wire F01618909BC801  Pagado $85,434.08, aplicado $72,932.79, crédito $12,501.29
-[ALTA] Pago con crédito disponible      Crowley wire 12              Pagado $35,050.00, aplicado $0.00, crédito $35,050.00
 [ALTA] Pago con crédito disponible      Crowley wire 20              Pagado $29,260.00, aplicado $0.00, crédito $29,260.00
 [ALTA] Pago con crédito disponible      Crowley wire F0162580BAE501  Pagado $65,160.00, aplicado $57,540.00, crédito $7,620.00
-[ALTA] Pago con crédito disponible      Crowley wire F0162710C30401  Pagado $32,192.70, aplicado $0.00, crédito $32,192.70
+[ALTA] Pago con crédito disponible      Crowley wire F0162710C30401  Pagado $32,192.70, aplicado $24,480.00, crédito $7,712.70
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Triton Energy wire 32        Pagado $213,418.88, aplicado $210,229.14, crédito $3,189.74
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: doc_problem             2026-10-07                   RE: 0872025 - CLAMCWPN26210796 - BKG# CAT40233611 - TCLU9083690 - 1 TANK - Pending Revised
+[MEDIA] Revisar: doc_problem, invoice    2026-10-08                   Re: Masters and Documentation - Bookings 9203946A / 9203970A (8 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-08                   RE: 0872025 - CLAMCWPN26210796 - BKG# CAT40233611 - TCLU9083690 - 1 TANK - Pending Revised (2 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-08                   Re: 0871434 - KATAPULK MARKETPLACE - BL# CWPN26189608 - BKG# CAT40268984- 18 Tanks - "CENS
 [MEDIA] Revisar: doc_problem             2026-10-07                   RE: 0872025 - CLAMCWPN26210796 - BKG# CAT40233611 - TCLU9083690 - 1 TANK - MISSING IMO ONL (3 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-10-07                   Re: Masters and Documentation - Bookings 9203946A / 9203970A (5 msgs)
 [MEDIA] Revisar: booking_change, doc_problem 2026-10-07                   RE: Return ISO tanks KATAPULK MARKETPLACE LLC (10 msgs)
 [MEDIA] Revisar: invoice                 2026-10-07                   RE: KATAPULK MARKETPLACE LLC // TANKS ARRIVING 10/6/26 – Commercial Invoices – Document Pa (2 msgs)
 [MEDIA] Revisar: invoice                 2026-10-07                   RE: KATAPULK MARKETPLACE LLC // TANKS ARRIVING 10/6/26 – Commercial Invoices – Complete Do (2 msgs)

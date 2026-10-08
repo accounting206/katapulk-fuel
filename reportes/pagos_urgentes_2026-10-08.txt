@@ -12,22 +12,26 @@ PAGOS URGENTES — 08/10/2026
    Por qué: 28 invoice(s) abiertas, la más vieja de hace 49 días. Último cobro 2026-09-28: Katapulk Marketplace LLC                 Ascent Invoice # 12
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: 1224906, 1224908, 1225462, 1225466, 1225473, 1225463, 1225465, 1225476, 1225477, 1225467, 1225469, 1225472, 1226082, 122
-4. [COBRO] CCS (Crowley demurrage) — $49,650.00
-   Por qué: 41 invoice(s) abiertas, la más vieja de hace 108 días. Último cobro 2026-10-07: KATAPULK MARKETPLACE LLC(61791) - CCS Invoices attached as p
+4. [COBRO] Crowley — $304,218.71
+   Por qué: 2 invoice(s) abiertas, la más vieja de hace 0 días. Último cobro 2026-10-08: RE:  0872026 // KATAPULK MARKETPLACE // BL# CWPN26210795 // 
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: 1278, 1288
+5. [COBRO] CCS (Crowley demurrage) — $49,650.00
+   Por qué: 41 invoice(s) abiertas, la más vieja de hace 108 días. Último cobro 2026-10-08: RE: KATAPULK MARKETPLACE LLC(61791) $49,250.00
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: CLU242713E, CLU242715E, CLU242716E, CLU242717E, CLU243302E, CLU243303E, CLU243304E, CLU244915E, CLU245600E, CLU246546E, 
-5. [SALDO] Port Consolidated — $221,233.74
+6. [SALDO] Port Consolidated — $221,233.74
    Por qué: 9 invoice(s) abiertas, la más vieja de hace 99 días (sin cobro reciente)
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
    Ref: 4361849-3, 4361849, 4364284-3, 4364284-1, 4364284, 4364284-4, 4364284-5, 4364284-2, 4364284-6
-6. [SALDO] Ushine Trucking — $33,000.00
+7. [SALDO] Ushine Trucking — $33,000.00
    Por qué: 5 invoice(s) abiertas, la más vieja de hace 81 días (sin cobro reciente)
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
    Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
 
-Total en la lista: $1,655,672.45
+Total en la lista: $1,959,891.16
 
 CRÉDITOS A FAVOR (no pagar de más):
-   Crowley: $121,220.95 — 6 pago(s) con dinero sin aplicar a invoices
+   Crowley: $49,189.66 — 4 pago(s) con dinero sin aplicar a invoices
    Triton Energy: $3,189.74 — 1 pago(s) con dinero sin aplicar a invoices
    Port Consolidated: $2,646.32 — 1 pago(s) con dinero sin aplicar a invoices
