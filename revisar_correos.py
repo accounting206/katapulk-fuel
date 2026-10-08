@@ -36,6 +36,7 @@ for mid in reversed(ids):
     hilo = api("threads/" + m["threadId"], format="metadata", metadataHeaders="From").get("messages", [])
     resp = any(int(x["internalDate"]) > int(m["internalDate"]) and "SENT" in x.get("labelIds", []) for x in hilo)
     print("=" * 60)
+    print(f"message_id: {mid} | thread_id: {m['threadId']}")
     for k in ("date", "from", "to", "cc", "subject"): print(f"{k}: {h.get(k, '')}")
     print(f"mensajes en el hilo: {len(hilo)} | accounting ya respondio despues: {'SI' if resp else 'NO'}")
     print(texto(m["payload"])[:1500]); print()
