@@ -1,0 +1,28 @@
+PRECIOS 09/10/2026
+(Venta = CIF $/L + 0.40)
+
+TEXAS (HOUSTON)
+Prov.    Ruta      Prod.     $/gal   Fecha  CIF    Venta
+MidTex   Seab.Hou  Gasolina  3.6558  08/10  1.200  1.600
+MidTex   Seab.Hou  Diésel    5.3517  08/10  1.648  2.048
+NueFuel  Seab.Hou  Gasolina  3.7800  28/09  1.232  1.632
+NueFuel  Seab.Hou  Diésel    5.1900  28/09  1.605  2.005
+NueFuel  Crow.Hou  Gasolina  3.7800  28/09  1.267  1.667
+NueFuel  Crow.Hou  Diésel    5.1900  28/09  1.639  2.039
+MidTex   Seab.Hou  IBC 330   5.3517  08/10  1.944  2.344
+MidTex   Seab.Hou  IBC 275   5.3517  08/10  1.979  2.379
+
+MIAMI / PEV
+Prov.    Ruta      Prod.     $/gal   Fecha  CIF    Venta
+Triton   Seab.Mia  Gasolina  4.1138  03/10  1.290  1.690
+Triton   Seab.Mia  Diésel    5.0800  02/10  1.546  1.946
+Triton   Crow.PEV  Gasolina  4.1138  03/10  1.348  1.748
+P.Consol Crow.PEV  Gasolina  4.3820  24/09  1.433  1.833
+P.Consol Crow.PEV  Diésel    6.2100  22/09  1.909  2.309
+W.Fuel   Crow.PEV  Gasolina  5.4323  08/10  1.670  2.070
+W.Fuel   Crow.PEV  Diésel    7.1347  08/10  2.119  2.519
+Radiant  Crow.PEV  Propano*  51.00   05/10  55.77  56.17
+
+*Propano: precio, CIF y venta por BALA 35 lb
+ (no por galón ni litro). CIF = bala + flete
+ marítimo + terrestre + seguro.
