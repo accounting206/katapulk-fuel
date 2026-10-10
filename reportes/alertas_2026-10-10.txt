@@ -58,7 +58,7 @@
 [ALTA] Pago con crédito disponible      Triton Energy wire 32        Pagado $213,418.88, aplicado $210,229.14, crédito $3,189.74
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: invoice                 2026-10-09                   Katapulk - Booking CAT40283820 - 10 ISO Tanks Gasoline - PEV to Mariel - QUETZAL / CUB6127 (4 msgs)
+[MEDIA] Revisar: invoice                 2026-10-10                   Re: Katapulk - Booking CAT40283820 - 10 ISO Tanks Gasoline - PEV to Mariel - QUETZAL / CUB (5 msgs)
 [MEDIA] Revisar: release                 2026-10-09                   RE: Payment Confirmation – B/L SMLU9203970A – Katapulk (4 msgs)
 [MEDIA] Revisar: booking_change          2026-10-09                   RE: Katapulk Houston-Mariel Gasoline ISO Tanks - Urgent booking request for your Houston t (3 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-10-09                   Re: B/L HOU9196581A – Release Status Confirmation (2 msgs)
