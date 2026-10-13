@@ -9,7 +9,7 @@ PAGOS URGENTES — 13/10/2026
    Qué hacer: Pagar depósito si se va a cargar este pedido
    Ref: KML3576R
 3. [COBRO] Crowley — $304,218.71
-   Por qué: 2 invoice(s) abiertas, la más vieja de hace 5 días. Último cobro 2026-10-08: RE:  KATAPULK MARKETPLACE LLC // RELEASES // ETA 10/6/2026
+   Por qué: 2 invoice(s) abiertas, la más vieja de hace 5 días. Último cobro 2026-10-13: RE: Release Status – B/L CWPS26265494 / Booking CAT40262784
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: 1278, 1288
 4. [COBRO] CCS (Crowley demurrage) — $49,650.00
