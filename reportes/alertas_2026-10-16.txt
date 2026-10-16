@@ -36,10 +36,13 @@
 [ALTA] Invoice nueva                    Triton Energy #2349          $25,149.45
 [ALTA] Invoice nueva                    Triton Energy #2374          $24,966.63
 [ALTA] Invoice nueva                    Crowley #0872446             $357.62
+[ALTA] Invoice nueva                    Triton Energy #2380          $24,654.08
+[ALTA] Invoice nueva                    Triton Energy #2376          $24,653.17
+[ALTA] Invoice nueva                    Triton Energy #2375          $24,653.37
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (59) Saldo $58,050.00: #CLU249395E $400 (CAT40241826), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200) … y 53 más
 [ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
-[ALTA] Invoices con saldo               Triton Energy (9)            Saldo $224,194.12: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 3 más
+[ALTA] Invoices con saldo               Triton Energy (12)           Saldo $298,154.74: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 6 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
 [ALTA] Invoices con saldo               World Fuel (28)              Saldo $837,498.71: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 22 más
 [MEDIA] Invoice provisional              NueFuel #KML3576R            $1,958,766.00 — depósito requerido $514,290.00; galones: 142,600 + 322,400 (no cuenta en saldos hasta la invoice final)
@@ -66,8 +69,11 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: invoice                 2026-10-16                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (3 msgs)
+[MEDIA] Revisar: arrival_notice, booking_change, doc_problem, invoice 2026-10-16                   Katapulk - Booking CAT40283820 - 10 ISO Tanks Gasoline - PEV to Mariel - QUETZAL / CUB6127 (11 msgs)
 [MEDIA] Revisar: release                 2026-10-16                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - Po (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-16                   RE: 0872446 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26193051 // BKG# CAT40233611002 - S (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-16                   Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Corrected Commercial Invoice and Pack
 [MEDIA] Revisar: invoice, payment_request 2026-10-16                   RE: 0872446 // 0872602 -BROKERAGE BILLING & CF7501 - RE:  KATAPULK MARKETPLACE // ETA 10/1
 [MEDIA] Revisar: invoice, payment_request 2026-10-15                   RE: Katapulk NEW Booking Request - 12 ISO Tanks Gasoline Fuel (Katapulk Equipments) - CAT4 (2 msgs)
 [MEDIA] Revisar: release                 2026-10-15                   RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Request for late check-out / exte (3 msgs)
@@ -79,7 +85,6 @@
 [MEDIA] Revisar: booking_change          2026-10-14                   Re: Katapulk - Booking CAT40283820 - ROLL to next sailing (Oct 24) and update tank list -  (2 msgs)
 [MEDIA] Revisar: release                 2026-10-14                   RE: Katapulk NEW Booking Request - 12 ISO Tanks Gasoline Fuel (Katapulk Equipments) - CAT4
 [MEDIA] Revisar: invoice                 2026-10-14                   Re: Katapulk - Booking CAT40283819 - 12 ISO tanks gasoline - Crowley PEV to Mariel - QUETZ (5 msgs)
-[MEDIA] Revisar: arrival_notice, booking_change, doc_problem, invoice 2026-10-14                   Katapulk - Booking CAT40283820 - 10 ISO Tanks Gasoline - PEV to Mariel - QUETZAL / CUB6127 (10 msgs)
 [MEDIA] Revisar: arrival_notice          2026-10-14                   QUETZAL / CUB6124 – IMO attached, Arrival Notice pending (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-14                   Re: Documentos gasolina PEV - Crowley - 22 ISO tanks UN1203 - IMO, Invoice y Packing List  (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-14                   Fwd: Bill of Lading: SLR 00340 9203970A     NCA + (2 msgs)

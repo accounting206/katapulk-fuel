@@ -12,10 +12,10 @@ PAGOS URGENTES — 16/10/2026
    Por qué: 2 invoice(s) abiertas, la más vieja de hace 8 días. Último cobro 2026-10-16: RE: 0872446 // 0872602 -BROKERAGE BILLING & CF7501 - RE:  KA
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: 1278, 1288
-4. [COBRO] Triton Energy — $224,194.12
-   Por qué: 9 invoice(s) abiertas, la más vieja de hace 2 días. Último cobro 2026-10-16: Invoice from TRITON ENERGY LLC - invoice 2374
+4. [COBRO] Triton Energy — $298,154.74
+   Por qué: 12 invoice(s) abiertas, la más vieja de hace 2 días. Último cobro 2026-10-16: Invoice from TRITON ENERGY LLC - invoice 2374
    Qué hacer: Pagar o acordar fecha con el proveedor
-   Ref: 2325, 2323, 2322, 2324, 2326, 2327, 2330, 2349, 2374
+   Ref: 2325, 2323, 2322, 2324, 2326, 2327, 2330, 2349, 2374, 2380, 2376, 2375
 5. [COBRO] CCS (Crowley demurrage) — $58,050.00
    Por qué: 59 invoice(s) abiertas, la más vieja de hace 116 días. Último cobro 2026-10-14: KATAPULK MARKETPLACE LLC(61791) - CCS Invoices attached as p
    Qué hacer: Pagar o acordar fecha con el proveedor
@@ -33,7 +33,7 @@ PAGOS URGENTES — 16/10/2026
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
    Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
 
-Total en la lista: $2,192,485.28
+Total en la lista: $2,266,445.90
 
 CRÉDITOS A FAVOR (no pagar de más):
    Crowley: $48,832.04 — 4 pago(s) con dinero sin aplicar a invoices
