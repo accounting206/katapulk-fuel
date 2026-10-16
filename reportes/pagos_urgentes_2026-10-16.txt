@@ -1,0 +1,40 @@
+PAGOS URGENTES — 16/10/2026
+
+1. [BLOQUEO] Seaboard
+   Por qué: 2026-09-17: RE: HOLD RELEASE – HOU9184780A / HOU9184782A / HOU9184737A / HOU9184742A / HOU91
+   Qué hacer: Pagar / confirmar pago para liberar la carga
+   Ref: 2026-09-17
+2. [DEPÓSITO] NueFuel — $514,290.00
+   Por qué: Invoice provisional #KML3576R ($1,958,766) pide depósito antes de cargar
+   Qué hacer: Pagar depósito si se va a cargar este pedido
+   Ref: KML3576R
+3. [COBRO] Crowley — $304,218.71
+   Por qué: 2 invoice(s) abiertas, la más vieja de hace 8 días. Último cobro 2026-10-16: RE: 0872446 // 0872602 -BROKERAGE BILLING & CF7501 - RE:  KA
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: 1278, 1288
+4. [COBRO] Triton Energy — $224,194.12
+   Por qué: 9 invoice(s) abiertas, la más vieja de hace 2 días. Último cobro 2026-10-16: Invoice from TRITON ENERGY LLC - invoice 2374
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: 2325, 2323, 2322, 2324, 2326, 2327, 2330, 2349, 2374
+5. [COBRO] CCS (Crowley demurrage) — $58,050.00
+   Por qué: 59 invoice(s) abiertas, la más vieja de hace 116 días. Último cobro 2026-10-14: KATAPULK MARKETPLACE LLC(61791) - CCS Invoices attached as p
+   Qué hacer: Pagar o acordar fecha con el proveedor
+   Ref: CLU242713E, CLU242715E, CLU242716E, CLU242717E, CLU243302E, CLU243303E, CLU243304E, CLU244915E, CLU245600E, CLU246546E, 
+6. [SALDO] World Fuel — $837,498.71
+   Por qué: 28 invoice(s) abiertas, la más vieja de hace 57 días (sin cobro reciente)
+   Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
+   Ref: 1224906, 1224908, 1225462, 1225466, 1225473, 1225463, 1225465, 1225476, 1225477, 1225467, 1225469, 1225472, 1226082, 122
+7. [SALDO] Port Consolidated — $221,233.74
+   Por qué: 9 invoice(s) abiertas, la más vieja de hace 107 días (sin cobro reciente)
+   Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
+   Ref: 4361849-3, 4361849, 4364284-3, 4364284-1, 4364284, 4364284-4, 4364284-5, 4364284-2, 4364284-6
+8. [SALDO] Ushine Trucking — $33,000.00
+   Por qué: 5 invoice(s) abiertas, la más vieja de hace 89 días (sin cobro reciente)
+   Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
+   Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
+
+Total en la lista: $2,192,485.28
+
+CRÉDITOS A FAVOR (no pagar de más):
+   Crowley: $48,832.04 — 4 pago(s) con dinero sin aplicar a invoices
+   Port Consolidated: $2,646.32 — 1 pago(s) con dinero sin aplicar a invoices
