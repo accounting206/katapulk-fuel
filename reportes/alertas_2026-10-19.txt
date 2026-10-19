@@ -26,7 +26,7 @@
 [ALTA] Pago pendiente                   HOU9184782A                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40249785002               Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   9196581A                     Booking en movimiento sin marcar como pagado
-[ALTA] Invoices con saldo               CCS (Crowley demurrage) (59) Saldo $58,050.00: #CLU249395E $400 (CAT40241826), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200) … y 53 más
+[ALTA] Invoices con saldo               CCS (Crowley demurrage) (59) Saldo $58,050.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 53 más
 [ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Triton Energy (13)           Saldo $305,354.74: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 7 más
@@ -56,8 +56,15 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: booking_change, release 2026-10-19                   RE: URGENT - RE: Katapulk - CAT40289610 - Empty container NOT delivered to Radiant Gas - I (8 msgs)
+[MEDIA] Revisar: doc_problem, release    2026-10-19                   RE: URGENT – Do Not Release Bookings HOU9203946A / HOU9203970A / HOU9224051A (2 msgs)
+[MEDIA] Revisar: invoice                 2026-10-19                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (9 msgs)
+[MEDIA] Revisar: booking_change          2026-10-19                   Katapulk - Booking CAT40283820 - IMO / Dangerous Goods Declaration - 10 ISO tanks gasoline
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 12 contenedores de 40' con 300 totes de Diesel para MPM Adt 6
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 10 contenedores de 40' con 250 totes de Diesel para MPM Adt 6
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 3 contenedores de 40' con 60 totes de Diesel para MPM Adt 64 
+[MEDIA] Revisar: doc_problem, invoice    2026-10-19                   URGENT - RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - B/L and tank NCCU1287566
 [MEDIA] Revisar: arrival_notice, booking_change, doc_problem 2026-10-18                   Re: [EXTERNAL] Re: Katapulk - Booking CAT40283820 - 10 ISO Tanks Gasoline - PEV to Mariel  (7 msgs)
-[MEDIA] Revisar: invoice                 2026-10-16                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (7 msgs)
 [MEDIA] Revisar: invoice                 2026-10-16                   RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Corrected Commercial Invoice and  (2 msgs)
 [MEDIA] Revisar: release                 2026-10-16                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - Po (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-16                   RE: 0872446 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26193051 // BKG# CAT40233611002 - S (3 msgs)
