@@ -57,10 +57,11 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: invoice                 2026-10-20                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (13 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-20                   Katapulk - DCIU0753337 released for pick-up at PEV - Arrival Notice and carrier SCAC neede (2 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-20                   Re: KATAPULK MARKETPLACE LLC // RELEASE // ETA 10/19/26 - DCIU0753337 and SEGU8093117 (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-20                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (16 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-10-19                   Fwd: Non-Negotiables Bill Of Lading: CWPS26277571-CAT40283819 | CUB6127 | SHP: KATAPULK MA (2 msgs)
 [MEDIA] Revisar: doc_problem, invoice    2026-10-19                   RE: URGENT - RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - B/L and tank NCCU128 (2 msgs)
-[MEDIA] Revisar: arrival_notice          2026-10-19                   RE: KATAPULK MARKETPLACE LLC // RELEASE // ETA 10/19/26 - DCIU0753337 and SEGU8093117 (2 msgs)
 [MEDIA] Revisar: arrival_notice, release 2026-10-19                   Katapulk - World Fuel ISO tanks returned to Port Everglades - SEGU8093117 and DCIU0753337 (4 msgs)
 [MEDIA] Revisar: booking_change, release 2026-10-19                   RE: URGENT - RE: Katapulk - CAT40289610 - Empty container NOT delivered to Radiant Gas - I (11 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-19                   RE: URGENT - RE: Katapulk - CAT40289610 - Signed IMO - UN1075 propane cylinders - Unit 1 S (2 msgs)
