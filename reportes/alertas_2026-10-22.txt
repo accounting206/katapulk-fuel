@@ -1,0 +1,108 @@
+[ALTA] Documentos faltantes             HOU9224051A                  Falta: documentos, IMO/Hazmat
+[ALTA] Documentos faltantes             HOU9224272A                  Falta: documentos, IMO/Hazmat
+[ALTA] Documentos faltantes             HOU9224301A                  Falta: documentos, IMO/Hazmat
+[ALTA] Documentos faltantes             HOU9224335A                  Falta: documentos, IMO/Hazmat
+[ALTA] Documentos faltantes             HOU9224385A                  Falta: documentos, IMO/Hazmat
+[ALTA] Pago pendiente                   CAT40151531                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9108913A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9124316A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9102656A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9095139A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40157861                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40158432                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40160532                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9124316B                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9147387A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40158416                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40166577                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9131909B                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40226452                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   HOU9173966A                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   HOU9173953A                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40226474                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40226550                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40226378                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   HOU9184780A                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   HOU9184782A                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40249785002               Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   9196581A                     Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40283819                  Booking en movimiento sin marcar como pagado
+[ALTA] Invoice nueva                    World Fuel #1238385          $32,551.69
+[ALTA] Invoice nueva                    World Fuel #1238387          $32,308.50
+[ALTA] Invoice nueva                    World Fuel #1238742          $32,255.44
+[ALTA] Invoice nueva                    World Fuel #1238384          $32,551.69
+[ALTA] Invoice nueva                    World Fuel #1238741          $32,186.42
+[ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU245052E $1,500 (CAT40150410), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200) … y 54 más
+[ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
+[ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
+[ALTA] Invoices con saldo               Triton Energy (13)           Saldo $305,354.74: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 7 más
+[ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
+[ALTA] Invoices con saldo               World Fuel (33)              Saldo $999,352.45: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 27 más
+[MEDIA] Invoice provisional              NueFuel #KML3576R            $1,958,766.00 — depósito requerido $514,290.00; galones: 142,600 + 322,400 (no cuenta en saldos hasta la invoice final)
+[ALTA] Factura no coincide con pago     Crowley / CAT40262737        Facturado $38,795.00 vs pagado $38,295.00 → falta pagar $500.00
+[ALTA] Factura no coincide con pago     Crowley / CAT40262783        Facturado $19,245.00 vs pagado $23,075.80 → pagamos de más $3,830.80
+[ALTA] Factura no coincide con pago     Crowley / CAT40268984        Facturado $270,900.00 vs pagado $24,480.00 → falta pagar $246,420.00
+[ALTA] Factura no coincide con pago     World Fuel / CAT40160516     Facturado $110,037.12 vs pagado $73,243.46 → falta pagar $36,793.66
+[ALTA] Factura no coincide con pago     World Fuel / CAT40249823     Facturado $264,666.93 vs pagado $35,000.00 → falta pagar $229,666.93
+[ALTA] Factura no coincide con pago     World Fuel / CAT40262737     Facturado $344,264.57 vs pagado $81,919.53 → falta pagar $262,345.04
+[MEDIA] Pagado, falta invoice            Crowley / CAT40241825        Pagado $6,750.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40241826        Pagado $5,400.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40247421        Pagado $1,350.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40247426        Pagado $1,350.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40252791        Pagado $9,450.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40262784        Pagado $4,771.16, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40263690        Pagado $4,005.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40268986        Pagado $2,720.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Crowley / CAT40270958        Pagado $4,080.00, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            Port Consolidated / CAT40262783 + CAT40262784 Pagado $219,623.93, todavía no llegó la invoice
+[MEDIA] Pagado, falta invoice            World Fuel / CAT40226378 + CAT40226550 Pagado $30,000.00, todavía no llegó la invoice
+[ALTA] Pago con crédito disponible      Crowley wire 20              Pagado $29,260.00, aplicado $0.00, crédito $29,260.00
+[ALTA] Pago con crédito disponible      Crowley wire F0162580BAE501  Pagado $65,160.00, aplicado $57,540.00, crédito $7,620.00
+[ALTA] Pago con crédito disponible      Crowley wire F0162710C30401  Pagado $32,192.70, aplicado $24,837.62, crédito $7,355.08
+[ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
+[ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
+[ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: invoice                 2026-10-22                   Katapulk Marketplace: VGM, Confirmation, Invoice & C of A: Booking# CAT40283820 ( 10 ISO C (2 msgs)
+[MEDIA] Revisar: invoice, release        2026-10-22                   RE: Katapulk NEW Booking Request - 8 x 40' Containers Propane Cylinders (Radiant Gas) - Ne (7 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-22                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (34 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-21                   RE: FW: CAT40283819 - Ultimate consignee request - Updated SLI, Invoices and Packing Lists (3 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-21                   RE: FW: Katapulk Marketplace // jobs: 0872446 // (6 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-21                   Re: Credit Balance Confirmation & Updated Statement of Account (2 msgs)
+[MEDIA] Revisar: booking_change, doc_problem 2026-10-21                   Suspension of Shipments Involving EMSERPET as Ultimate Consignee - Return ISO Tank.
+[MEDIA] Revisar: arrival_notice, release 2026-10-21                   Katapulk - Booking CAT40283820 - Loading data received / cut-offs tomorrow / IMO approval (2 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-21                   RE: FW: CAT40283819 - Ultimate consignee request
+[MEDIA] Revisar: invoice                 2026-10-21                   RE: BK# 9282313A Tank Info - Master, Invoice and SCC - TLLU9004699 (2 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-21                   Katapulk - DCIU0753337 released for pick-up at PEV - Arrival Notice attached / CAT40283820 (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-21                   RE: BK# 9282313A Tank Info - Updated Master and SCC - SL HARRIER V.341 - Factura
+[MEDIA] Revisar: invoice                 2026-10-21                   CORRECCION - Documentación de embarque de 12 contenedores de 40' con 300 totes de Diesel p
+[MEDIA] Revisar: invoice                 2026-10-21                   CORRECCION - Documentación de embarque de 10 contenedores de 40' con 250 totes de Diesel p
+[MEDIA] Revisar: invoice                 2026-10-21                   CORRECCION - Documentación de embarque de 3 contenedores de 40' con 60 totes de Diesel par
+[MEDIA] Revisar: arrival_notice          2026-10-20                   Katapulk - Booking CAT40283820 - Please update tank list (4 changes) - REGULA / CUB6044 (7 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-20                   Katapulk - DCIU0753337 released for pick-up at PEV - Arrival Notice and carrier SCAC neede (2 msgs)
+[MEDIA] Revisar: doc_problem, release    2026-10-20                   Fwd: Non-Negotiables Bill Of Lading: CWPN26194950-CAT40286293 | CUB6043 | SHP: EMSERPET | 
+[MEDIA] Revisar: doc_problem, release    2026-10-20                   Fwd: Non-Negotiables Bill Of Lading: CWPN26190766-CAT40272435 | CUB6043 | SHP: EMSERPET | 
+[MEDIA] Revisar: arrival_notice, release 2026-10-20                   Re: KATAPULK MARKETPLACE LLC // RELEASE // ETA 10/19/26 - DCIU0753337 and SEGU8093117 (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-20                   Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - SEA
+[MEDIA] Revisar: doc_problem, release    2026-10-19                   Fwd: Non-Negotiables Bill Of Lading: CWPS26277571-CAT40283819 | CUB6127 | SHP: KATAPULK MA (2 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-19                   RE: URGENT - RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - B/L and tank NCCU128 (2 msgs)
+[MEDIA] Revisar: arrival_notice, release 2026-10-19                   Katapulk - World Fuel ISO tanks returned to Port Everglades - SEGU8093117 and DCIU0753337 (4 msgs)
+[MEDIA] Revisar: booking_change, release 2026-10-19                   RE: URGENT - RE: Katapulk - CAT40289610 - Empty container NOT delivered to Radiant Gas - I (11 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-19                   RE: URGENT - RE: Katapulk - CAT40289610 - Signed IMO - UN1075 propane cylinders - Unit 1 S (2 msgs)
+[MEDIA] Revisar: invoice, release        2026-10-19                   RE:  KATAPULK MARKETPLACE LLC // RELEASE // ETA 10/19/26
+[MEDIA] Revisar: booking_change, doc_problem 2026-10-19                   RE: Katapulk - Booking CAT40283820 - IMO / Dangerous Goods Declaration - 10 ISO tanks gaso (2 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-19                   RE: DOCS REQUEST - RETURN ISO TANKS KATAPULK MARKETPLACE LLC - Master B/L and IMO - CAT402 (4 msgs)
+[MEDIA] Revisar: doc_problem, release    2026-10-19                   RE: URGENT – Do Not Release Bookings HOU9203946A / HOU9203970A / HOU9224051A (2 msgs)
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 12 contenedores de 40' con 300 totes de Diesel para MPM Adt 6
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 10 contenedores de 40' con 250 totes de Diesel para MPM Adt 6
+[MEDIA] Revisar: invoice                 2026-10-19                   Documentación de embarque de 3 contenedores de 40' con 60 totes de Diesel para MPM Adt 64 
+[MEDIA] Revisar: invoice                 2026-10-16                   RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Corrected Commercial Invoice and  (2 msgs)
+[MEDIA] Revisar: release                 2026-10-16                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - Po (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-16                   RE: 0872446 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26193051 // BKG# CAT40233611002 - S (3 msgs)
+[MEDIA] Revisar: invoice, payment_request 2026-10-16                   RE: 0872446 // 0872602 -BROKERAGE BILLING & CF7501 - RE:  KATAPULK MARKETPLACE // ETA 10/1
+[MEDIA] Revisar: invoice, payment_request 2026-10-15                   RE: Katapulk NEW Booking Request - 12 ISO Tanks Gasoline Fuel (Katapulk Equipments) - CAT4 (2 msgs)
+[MEDIA] Revisar: release                 2026-10-15                   RE: Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Request for late check-out / exte (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-15                   Re: Katapulk Marketplace LL - Texas Fuel Tax Export Exception Application and Fuel Taxes r
+[MEDIA] Revisar: invoice                 2026-10-15                   RE: 0872602 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26192439 // BKG# CAT40277687 - DCIU (6 msgs)
+[MEDIA] Revisar: invoice                 2026-10-15                   RE: BK# HOU9224051A - Please send updated booking confirmation (vessel / voyage / sailing) (4 msgs)
+[MEDIA] Revisar: invoice                 2026-10-15                   Re: URGENTE - IMO retorno tanque SEGU8093117 - Booking CAT40233611002 / B/L CWPN26193051 (2 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-15                   Katapulk - Booking CAT40283819 (QUETZAL / CUB6127) - Commercial Invoice and Packing List -
