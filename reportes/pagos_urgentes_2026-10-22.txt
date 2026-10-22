@@ -4,8 +4,8 @@ PAGOS URGENTES — 22/10/2026
    Por qué: Invoice provisional #KML3576R ($1,958,766) pide depósito antes de cargar
    Qué hacer: Pagar depósito si se va a cargar este pedido
    Ref: KML3576R
-2. [COBRO] World Fuel — $999,352.45
-   Por qué: 33 invoice(s) abiertas, la más vieja de hace 63 días. Último cobro 2026-10-21: Katapulk Marketplace LLC                 Ascent Invoice # 12
+2. [COBRO] World Fuel — $1,126,693.34
+   Por qué: 37 invoice(s) abiertas, la más vieja de hace 63 días. Último cobro 2026-10-22: Katapulk Marketplace LLC                 Ascent Invoice # 12
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: 1224906, 1224908, 1225462, 1225466, 1225473, 1225463, 1225465, 1225476, 1225477, 1225467, 1225469, 1225472, 1226082, 122
 3. [COBRO] Triton Energy — $305,354.74
@@ -29,7 +29,7 @@ PAGOS URGENTES — 22/10/2026
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
    Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
 
-Total en la lista: $2,436,999.64
+Total en la lista: $2,564,340.53
 
 CRÉDITOS A FAVOR (no pagar de más):
    Crowley: $48,832.04 — 4 pago(s) con dinero sin aplicar a invoices

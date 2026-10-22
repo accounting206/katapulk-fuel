@@ -32,12 +32,16 @@
 [ALTA] Invoice nueva                    World Fuel #1238742          $32,255.44
 [ALTA] Invoice nueva                    World Fuel #1238384          $32,551.69
 [ALTA] Invoice nueva                    World Fuel #1238741          $32,186.42
+[ALTA] Invoice nueva                    World Fuel #1238743          $31,748.88
+[ALTA] Invoice nueva                    World Fuel #1239011          $31,733.30
+[ALTA] Invoice nueva                    World Fuel #1239013          $31,924.12
+[ALTA] Invoice nueva                    World Fuel #1239012          $31,934.59
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU245052E $1,500 (CAT40150410), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200) … y 54 más
 [ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Triton Energy (13)           Saldo $305,354.74: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 7 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
-[ALTA] Invoices con saldo               World Fuel (33)              Saldo $999,352.45: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 27 más
+[ALTA] Invoices con saldo               World Fuel (37)              Saldo $1,126,693.34: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 31 más
 [MEDIA] Invoice provisional              NueFuel #KML3576R            $1,958,766.00 — depósito requerido $514,290.00; galones: 142,600 + 322,400 (no cuenta en saldos hasta la invoice final)
 [ALTA] Factura no coincide con pago     Crowley / CAT40262737        Facturado $38,795.00 vs pagado $38,295.00 → falta pagar $500.00
 [ALTA] Factura no coincide con pago     Crowley / CAT40262783        Facturado $19,245.00 vs pagado $23,075.80 → pagamos de más $3,830.80
@@ -62,9 +66,11 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: invoice                 2026-10-22                   Katapulk Marketplace: VGM, Confirmation, Invoice & C of A: Booking# CAT40283820 ( 10 ISO C (2 msgs)
+[MEDIA] Revisar: invoice                 2026-10-22                   Katapulk Marketplace: VGM, Confirmation, Invoice & C of A: Booking# CAT40283820 ( 10 ISO C (4 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-22                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (35 msgs)
 [MEDIA] Revisar: invoice, release        2026-10-22                   RE: Katapulk NEW Booking Request - 8 x 40' Containers Propane Cylinders (Radiant Gas) - Ne (7 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-10-22                   RE: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (34 msgs)
+[MEDIA] Revisar: release                 2026-10-22                   Katapulk NEW Booking Request - 8 x 40' Containers Liquefied Petroleum Gas (Propane Cylinde
+[MEDIA] Revisar: invoice                 2026-10-22                   Katapulk - Booking CAT40289610 (REGULA / CUB6044) - Commercial Invoice and Packing List - 
 [MEDIA] Revisar: doc_problem, invoice    2026-10-21                   RE: FW: CAT40283819 - Ultimate consignee request - Updated SLI, Invoices and Packing Lists (3 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-21                   RE: FW: Katapulk Marketplace // jobs: 0872446 // (6 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-21                   Re: Credit Balance Confirmation & Updated Statement of Account (2 msgs)
