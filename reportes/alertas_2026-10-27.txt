@@ -58,8 +58,13 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: arrival_notice          2026-10-27                   RE: REVISED CIV -1TK-Re: 0873527 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26194950 // FW (2 msgs)
-[MEDIA] Revisar: doc_problem, release    2026-10-26                   Re: Katapulk NEW Booking Request - 8 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (5 msgs)
+[MEDIA] Revisar: release                 2026-10-27                   RE:  KATAPULK MARKETPLACE LLC // RELEASE // ETA 10/25/2026
+[MEDIA] Revisar: invoice                 2026-10-27                   RE: Re: RE: URGENT TODAY - 3 empty 40' containers (2 Radiant Gas + 1 Homestead) - please c (6 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-27                   RE: BK# 9242008A Tank Info (3 msgs)
+[MEDIA] Revisar: arrival_notice, invoice 2026-10-27                   RE: REVISED CIV -1TK-Re: 0873527 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26194950 // FW (3 msgs)
+[MEDIA] Revisar: invoice                 2026-10-27                   Re: Katapulk - 18 ISO tanks Houston (MidTex diesel fill) - bookings HOU9242008A / HOU92419 (2 msgs)
+[MEDIA] Revisar: doc_problem, release    2026-10-27                   Re: Katapulk NEW Booking Request - 8 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (6 msgs)
+[MEDIA] Revisar: invoice, release        2026-10-27                   Re: BK# 9282313A Tank Info - Updated Master and SCC - SL HARRIER V.341 - Factura (5 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 8 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (2 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 2 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (6 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (25 msgs)
@@ -69,11 +74,9 @@
 [MEDIA] Revisar: doc_problem, invoice    2026-10-26                   Re: FW: Katapulk Marketplace // jobs: 0872446 // (12 msgs)
 [MEDIA] Revisar: booking_change          2026-10-26                   Re: Booking CAT40283820 / B/L CWPS26280181 - 10 ISO tanks - vessel/voyage change REGULA CU (3 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   (REVISED) VOCC TRADE ANNOUNCEMENT: Puerto Rico Vessel Fuel Review Effective 11/15/2026
-[MEDIA] Revisar: invoice, release        2026-10-26                   RE: BK# 9282313A Tank Info - Updated Master and SCC - SL HARRIER V.341 - Factura (4 msgs)
 [MEDIA] Revisar: invoice, release        2026-10-26                   RE: Katapulk NEW Booking Request - 8 x 40' Containers Propane Cylinders (Radiant Gas) - Ne (11 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   RE: CAT40289610 - SLI for the EEI - 5 x 40' propane cylinders (REGULA / CUB6044) (3 msgs)
 [MEDIA] Revisar: arrival_notice, invoice 2026-10-26                   RE:  0873527 // KATAPULK MARKETPLACE LLC // BL# CLAMCWPN26194950 // FW: Arrival Notice:  A (3 msgs)
-[MEDIA] Revisar: invoice                 2026-10-26                   Katapulk - 18 ISO tanks Houston (MidTex diesel fill) - bookings HOU9242008A / HOU9241989A 
 [MEDIA] Revisar: invoice                 2026-10-26                   URGENTE - IMO retorno CAT40286293 / B/L CWPN26194950 - corregir a 1 tanque (SEGU8093360) -
 [MEDIA] Revisar: doc_problem, release    2026-10-26                   Fwd: Non-Negotiables Bill Of Lading: CWPN26194950-CAT40286293 | CUB6043 | SHP: EMSERPET |  (2 msgs)
 [MEDIA] Revisar: arrival_notice, release 2026-10-24                   Fwd: Arrival Notice:  AN-314863 for REGULA/CUB6043 - ETA: 10/23/2026
