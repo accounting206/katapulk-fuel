@@ -29,7 +29,7 @@
 [ALTA] Pago pendiente                   CAT40283819                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   HOU9203946A                  Booking en movimiento sin marcar como pagado
 [ALTA] Invoice nueva                    Triton Energy #2548          $23,378.44
-[ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU245052E $1,500 (CAT40150410), #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200) … y 54 más
+[ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 54 más
 [ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Triton Energy (14)           Saldo $328,733.18: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 8 más
@@ -59,8 +59,13 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: invoice                 2026-10-30                   RE: URGENT TODAY - 3 empty 40' containers (2 Radiant Gas + 1 Homestead) - please confirm d (13 msgs)
+[MEDIA] Revisar: invoice                 2026-10-30                   RE: 0873527 // KATAPULK MARKETPLACE LLC //CREDIT INVOICE WITH UPDATED CF7501 // BL# CLAMCW
+[MEDIA] Revisar: invoice                 2026-10-30                   RE: BK# 9253089A Tank Info (6 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-10-30                   Re: URGENT - Booking CAT40295243 (2 x 40' propane cylinders) - empty container TODAY to PP (10 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-30                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (2 msgs)
-[MEDIA] Revisar: invoice                 2026-10-30                   RE: RE: URGENT TODAY - 3 empty 40' containers (2 Radiant Gas + 1 Homestead) - please confi (9 msgs)
+[MEDIA] Revisar: doc_problem             2026-10-30                   Re: KATAPULK MARKETPLACE LLC ACC#61791
+[MEDIA] Revisar: invoice                 2026-10-30                   Re: BK# 9241989A Tank Info (4 msgs)
 [MEDIA] Revisar: booking_change, doc_problem, invoice 2026-10-29                   RE: URGENT - Katapulk - Explanation required: status of bookings CAT40283819, CAT40283820, (8 msgs)
 [MEDIA] Revisar: doc_problem, invoice    2026-10-29                   Re: Important Update Regarding Shipments Associated with ENETEC (4 msgs)
 [MEDIA] Revisar: doc_problem, invoice    2026-10-29                   RE: BK# 9242008A Tank Info (7 msgs)
@@ -68,7 +73,6 @@
 [MEDIA] Revisar: invoice                 2026-10-29                   RE: Katapulk - 18 ISO tanks Houston (MidTex diesel fill) - bookings HOU9242008A / HOU92419 (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-29                   Re: Invoice(s) Posted (5 msgs)
 [MEDIA] Revisar: booking_change          2026-10-28                   Mariel Vessel Schedule Updates
-[MEDIA] Revisar: invoice                 2026-10-28                   RE: BK# 9241989A Tank Info (3 msgs)
 [MEDIA] Revisar: invoice                 2026-10-28                   Re: [EXTERNAL] Re: Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application  (8 msgs)
 [MEDIA] Revisar: booking_change          2026-10-27                   RE: Booking CAT40283820 / B/L CWPS26280181 - 10 ISO tanks - vessel/voyage change REGULA CU (4 msgs)
 [MEDIA] Revisar: release                 2026-10-27                   Re: Katapulk Marketplace Tank Out Requests (4 msgs)
@@ -80,7 +84,6 @@
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 8 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (2 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 2 x 40' Containers Liquefied Petroleum Gas (Propane Cyl (5 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   Re: Katapulk NEW Booking Request - 5 x 40' Containers Propane Cylinders (Radiant Gas) - CA (2 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-10-26                   Re: URGENT - Booking CAT40295243 (2 x 40' propane cylinders) - empty container TODAY to PP (9 msgs)
 [MEDIA] Revisar: invoice                 2026-10-26                   Re: FW: Katapulk Marketplace // jobs: 0872446 // (6 msgs)
 [MEDIA] Revisar: doc_problem             2026-10-26                   (REVISED) VOCC TRADE ANNOUNCEMENT: Puerto Rico Vessel Fuel Review Effective 11/15/2026
 [MEDIA] Revisar: doc_problem             2026-10-26                   RE: CAT40289610 - SLI for the EEI - 5 x 40' propane cylinders (REGULA / CUB6044) (3 msgs)
