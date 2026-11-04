@@ -30,10 +30,12 @@
 [ALTA] Pago pendiente                   HOU9203946A                  Booking en movimiento sin marcar como pagado
 [ALTA] Invoice nueva                    Triton Energy #2574          $22,765.05
 [ALTA] Invoice nueva                    Triton Energy #2575          $22,737.61
+[ALTA] Invoice nueva                    Triton Energy #2583          $22,806.15
+[ALTA] Invoice nueva                    Triton Energy #2584          $22,582.87
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 54 más
 [ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
-[ALTA] Invoices con saldo               Triton Energy (21)           Saldo $471,175.57: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 15 más
+[ALTA] Invoices con saldo               Triton Energy (23)           Saldo $516,564.59: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 17 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
 [ALTA] Invoices con saldo               World Fuel (38)              Saldo $1,158,659.41: #1224906 $843 (CAT40226474), #1224908 $31,818 (CAT40226474), #1225462 $1,973 (CAT40226378), #1225466 $31,878, #1225473 $31,820, #1225476 $32,015 … y 32 más
 [MEDIA] Invoice provisional              NueFuel #KML3576R            $1,958,766.00 — depósito requerido $514,290.00; galones: 142,600 + 322,400 (no cuenta en saldos hasta la invoice final)
@@ -60,14 +62,17 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: doc_problem             2026-11-04                   RE: ISF - Return ISO tanks - CAT40272435 (CWPN26190766) and CAT40286293 (CWPN26194950) - Q (5 msgs)
+[MEDIA] Revisar: booking_change, doc_problem 2026-11-04                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (7 msgs)
+[MEDIA] Revisar: invoice                 2026-11-04                   RE: Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - (10 msgs)
+[MEDIA] Revisar: invoice                 2026-11-04                   CORRECCIÓN 3 - Documentación de 7 Iso Tanks de Gasolina para LA MEKNICA SRL CWPS26277571
+[MEDIA] Revisar: doc_problem, release    2026-11-04                   Fwd: Non-Negotiables Bill Of Lading: CWPN26197924-CAT40286293002 | CUB6127 | SHP: EMSERPET
+[MEDIA] Revisar: doc_problem, invoice    2026-11-04                   Re: Important Update Regarding Shipments Associated with ENETEC (6 msgs)
 [MEDIA] Revisar: invoice                 2026-11-03                   Re: Katapulk Marketplace LL - Texas Fuel Tax Export Exception Application and Fuel Taxes r (3 msgs)
 [MEDIA] Revisar: invoice                 2026-11-03                   RE: BK# 9253089A Tank Info (9 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-11-03                   Re: Important Update Regarding Shipments Associated with ENETEC (5 msgs)
 [MEDIA] Revisar: booking_change, doc_problem, invoice 2026-11-03                   Re: Documents Request: CUB6046, CUB6129 (3 msgs)
-[MEDIA] Revisar: doc_problem             2026-11-03                   RE: ISF - Return ISO tanks - CAT40272435 (CWPN26190766) and CAT40286293 (CWPN26194950) - Q (4 msgs)
 [MEDIA] Revisar: invoice                 2026-11-03                   Re: Bill of Lading: SLR 00342 9242008A     NCA + (2 msgs)
 [MEDIA] Revisar: invoice                 2026-11-03                   Fwd: Bill of Lading: SLR 00342 9253089A     NCA +
-[MEDIA] Revisar: booking_change, doc_problem 2026-11-03                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (3 msgs)
 [MEDIA] Revisar: invoice                 2026-11-02                   Re: CAT40295243 - documents (Invoice, Packing List, SLI) - 2 x 40' HC Propane Cylinders UN (2 msgs)
 [MEDIA] Revisar: booking_change, doc_problem, invoice 2026-11-02                   RE: URGENT - Katapulk - Explanation required: status of bookings CAT40283819, CAT40283820, (8 msgs)
 [MEDIA] Revisar: booking_change          2026-11-02                   RE: URGENT - Booking CAT40295243 (2 x 40' propane cylinders) - please confirm vessel / voy (2 msgs)
