@@ -58,19 +58,23 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: doc_problem             2026-11-09                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952
+[MEDIA] Revisar: invoice                 2026-11-09                   RE: URGENT - Katapulk - Confirm sailings and status of CAT40283819, CAT40283820, CAT402896 (6 msgs)
+[MEDIA] Revisar: invoice                 2026-11-09                   Re: BK# 9241989A Tank Info (4 msgs)
+[MEDIA] Revisar: invoice, release        2026-11-09                   RE:  KATAPULK MARKETPLACE LLC // RELEASE // ETA 11/7/2026
+[MEDIA] Revisar: invoice                 2026-11-09                   Re: 0875291 // KATAPULK MARKETPLACE // BL# CLAMCWPN26200523 - BKG# CAT40286293003 - SLZU28 (4 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-11-09                   Re: 0875166 // KATAPULK MARKETPLACE // BROKERAGE BILLING & CF7501 (7 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-09                   RE: URGENT - RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT4029480 (2 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-11-09                   RE: Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - (16 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-09                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (2 msgs)
+[MEDIA] Revisar: invoice                 2026-11-09                   Seaboard booking received
+[MEDIA] Revisar: invoice                 2026-11-09                   RE: 0875291 // KATAPULK MARKETPLACE // BL# CLAMCWPN26200523 - BKG# CAT40286293003 - SLZU28 (6 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-09                   RE: Return ISO Tanks - KATAPULK MARKETPLACE LLC - owned tanks in Mariel - request for retu (4 msgs)
 [MEDIA] Revisar: invoice                 2026-11-07                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (3 msgs)
-[MEDIA] Revisar: invoice                 2026-11-07                   RE: Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - (14 msgs)
-[MEDIA] Revisar: doc_problem             2026-11-07                   RE: Return ISO Tanks - KATAPULK MARKETPLACE LLC - owned tanks in Mariel - request for retu (2 msgs)
-[MEDIA] Revisar: invoice                 2026-11-06                   RE: 0875291 // KATAPULK MARKETPLACE // BL# CLAMCWPN26200523 - BKG# CAT40286293003 - SLZU28 (2 msgs)
-[MEDIA] Revisar: invoice                 2026-11-06                   RE: 0875291 // KATAPULK MARKETPLACE // BL# CLAMCWPN26200523 - BKG# CAT40286293003 - SLZU28 (5 msgs)
 [MEDIA] Revisar: release                 2026-11-06                   Empties in Cuba (4 msgs)
 [MEDIA] Revisar: release                 2026-11-06                   Re: KATAPULK MARKETPLACE // RELEASE // ETA 11/5/2026 (5 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-11-06                   Re: 0875166 // KATAPULK MARKETPLACE // BROKERAGE BILLING & CF7501 (4 msgs)
 [MEDIA] Revisar: booking_change, doc_problem 2026-11-06                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (12 msgs)
 [MEDIA] Revisar: invoice                 2026-11-06                   RE: Documents Request: CUB6129 - Booking CAT40294805 (2 msgs)
 [MEDIA] Revisar: invoice                 2026-11-06                   Fwd: Bill of Lading: ALD 00007 9272747A     NCA +
-[MEDIA] Revisar: invoice                 2026-11-06                   Re: BK# 9241989A Tank Info
 [MEDIA] Revisar: doc_problem             2026-11-06                   Re: Booking CAT40294805 - Signed IMO / Dangerous Goods Declaration - 7 containers - Radian (4 msgs)
 [MEDIA] Revisar: doc_problem, invoice    2026-11-06                   RE: Katapulk - Booking MIA9272747B - 5 ISO tanks gasoline 87 - Seaboard Miami to Mariel -  (17 msgs)
 [MEDIA] Revisar: arrival_notice, invoice 2026-11-06                   RE: FW: Arrival Notice: AN-317921 for QUETZAL/CUB6127 - ETA: 11/3/2026 - REF: 0875166 // K (8 msgs)
