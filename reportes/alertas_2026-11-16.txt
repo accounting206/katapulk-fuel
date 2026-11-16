@@ -60,12 +60,13 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: doc_problem             2026-11-16                   RE: URGENT - RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT4029480 (5 msgs)
+[MEDIA] Revisar: invoice                 2026-11-16                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (5 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-16                   RE: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 documents (Master (7 msgs)
+[MEDIA] Revisar: booking_change          2026-11-16                   RE: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (4 msgs)
 [MEDIA] Revisar: release                 2026-11-16                   REMINDER: 2026 US Thanksgiving Holiday Schedule
-[MEDIA] Revisar: doc_problem             2026-11-13                   RE: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 documents (Master (5 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-11-13                   Fwd: Non-Negotiables Bill Of Lading: CWPN26193051-CAT40233611002 | CUB6128 | SHP: EMSERPET
-[MEDIA] Revisar: invoice                 2026-11-13                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (4 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-11-13                   Fwd: Non-Negotiables Bill Of Lading: CWPN26199389-CAT40300634 | CUB6128 | SHP: EMSERPET |  (2 msgs)
-[MEDIA] Revisar: booking_change          2026-11-12                   RE: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (3 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-11                   RE: Return ISO tanks KATAPULK MARKETPLACE LLC - CAT40308797 and CAT40308799 - documents: M (2 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-11                   RE: Return ISO Tanks - DENEB / CUB6046 - CAT40307183, CAT40307184, CAT40307185 - documents (3 msgs)
 [MEDIA] Revisar: release                 2026-11-11                   Empties in Cuba - SLZU2841640 pickup, fill quote, return booking CAT40308797 and 5 tanks t (3 msgs)
@@ -84,7 +85,6 @@
 [MEDIA] Revisar: doc_problem             2026-11-09                   Re: Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - (4 msgs)
 [MEDIA] Revisar: booking_change, invoice 2026-11-09                   Re: URGENT - Katapulk - Confirm sailings and status of CAT40283819, CAT40283820, CAT402896 (11 msgs)
 [MEDIA] Revisar: release                 2026-11-09                   Empties in Cuba: Inventory as of 11/9 (2 msgs)
-[MEDIA] Revisar: doc_problem             2026-11-09                   RE: URGENT - RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT4029480 (4 msgs)
 [MEDIA] Revisar: release                 2026-11-09                   Empties in Cuba (2 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-09                   RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT40294805 & CAT402952 (3 msgs)
 [MEDIA] Revisar: invoice, release        2026-11-09                   Re: RE:  KATAPULK MARKETPLACE LLC // RELEASE // ETA 11/7/2026 (2 msgs)
