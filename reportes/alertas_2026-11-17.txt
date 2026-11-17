@@ -60,12 +60,15 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
-[MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS- (2 msgs)
+[MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS  (2 msgs)
+[MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS- (4 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-17                   Re: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 (B/L CWPN26202353 (3 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-17                   RE: URGENT - RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- CAT4029480 (3 msgs)
 [MEDIA] Revisar: release                 2026-11-17                   RE: Katapulk - Booking MIA9272747A - 10 ISO tanks gasoline 87 - Seaboard Miami to Mariel - (2 msgs)
-[MEDIA] Revisar: doc_problem             2026-11-16                   RE: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 (B/L CWPN26202353
+[MEDIA] Revisar: release                 2026-11-17                   Re: Quote request - Fill 4 ISO tanks at Port Everglades - Red dyed diesel and Regular 87 g (3 msgs)
+[MEDIA] Revisar: invoice                 2026-11-17                   RECTIFICACIÓN - cambio de cliente - 5 ISO Tanks Gasolina - Booking MIA9272747A - B/L SMLU9
+[MEDIA] Revisar: invoice                 2026-11-17                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (4 msgs)
 [MEDIA] Revisar: invoice                 2026-11-16                   Fwd: October 2026 Sublease Invoice
-[MEDIA] Revisar: invoice                 2026-11-16                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (2 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-16                   RE: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 documents (Master (7 msgs)
 [MEDIA] Revisar: booking_change          2026-11-16                   RE: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (4 msgs)
 [MEDIA] Revisar: release                 2026-11-16                   REMINDER: 2026 US Thanksgiving Holiday Schedule
