@@ -30,8 +30,9 @@
 [ALTA] Pago pendiente                   HOU9203946A                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40283820                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40289610                  Booking en movimiento sin marcar como pagado
+[ALTA] Invoice nueva                    Crowley #1310                $105,350.00
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 54 más
-[ALTA] Invoices con saldo               Crowley (2)                  Saldo $304,218.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610)
+[ALTA] Invoices con saldo               Crowley (3)                  Saldo $409,568.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610), #1310 $105,350 (CAT40300634)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Triton Energy (24)           Saldo $539,404.35: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 18 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
@@ -60,8 +61,9 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: doc_problem, release    2026-11-18                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 -7 TANKS - (2 msgs)
+[MEDIA] Revisar: invoice                 2026-11-18                   RE: SML Statement of Account - CUSTOMER NUMBER : 130908 (7 msgs)
 [MEDIA] Revisar: invoice                 2026-11-18                   Re: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS  (3 msgs)
-[MEDIA] Revisar: invoice                 2026-11-18                   Fwd: SML Statement of Account - CUSTOMER NUMBER : 130908 (2 msgs)
 [MEDIA] Revisar: booking_change          2026-11-17                   RE: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (7 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-17                   Re: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 (B/L CWPN26202353 (6 msgs)
 [MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS  (2 msgs)

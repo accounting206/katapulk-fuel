@@ -1,6 +1,6 @@
 PAGOS URGENTES — 18/11/2026
 
-1. [BLOQUEO] Crowley — $304,218.71
+1. [BLOQUEO] Crowley — $409,568.71
    Por qué: 2026-11-17: RE: URGENT - RE: KATAPULK UPDATES / NOTICE FOR SHIPMENTS ON HOLD FOR EQUIPMENT- 
    Qué hacer: Pagar / confirmar pago para liberar la carga
    Ref: 2026-11-17
@@ -12,10 +12,10 @@ PAGOS URGENTES — 18/11/2026
    Por qué: 24 invoice(s) abiertas, la más vieja de hace 35 días. Último cobro 2026-11-04: Invoice from TRITON ENERGY LLC - invoice 2595
    Qué hacer: Pagar o acordar fecha con el proveedor
    Ref: 2325, 2323, 2322, 2324, 2326, 2327, 2330, 2349, 2374, 2380, 2376, 2375, ISO-1339, 2548, 2556, 2555, 2553, 2554, ISO-1364
-4. [COBRO] Crowley — $304,218.71
-   Por qué: 2 invoice(s) abiertas, la más vieja de hace 41 días. Último cobro 2026-11-17: RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 
+4. [COBRO] Crowley — $409,568.71
+   Por qué: 3 invoice(s) abiertas, la más vieja de hace 41 días. Último cobro 2026-11-18: RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 
    Qué hacer: Pagar o acordar fecha con el proveedor
-   Ref: 1278, 1288
+   Ref: 1278, 1288, 1310
 5. [SALDO] World Fuel — $1,158,659.41
    Por qué: 38 invoice(s) abiertas, la más vieja de hace 90 días (sin cobro reciente)
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
@@ -33,7 +33,7 @@ PAGOS URGENTES — 18/11/2026
    Qué hacer: Confirmar si ya se pagó (falta registrar el pago) o programar pago
    Ref: FAC0017, FAC0025, FAC0026, FAC0027, FAC0028
 
-Total en la lista: $3,134,574.92
+Total en la lista: $3,345,274.92
 
 CRÉDITOS A FAVOR (no pagar de más):
    Crowley: $48,832.04 — 4 pago(s) con dinero sin aplicar a invoices
