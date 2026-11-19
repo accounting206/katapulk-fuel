@@ -61,6 +61,12 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: booking_change, release 2026-11-19                   Re: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (7 msgs)
+[MEDIA] Revisar: doc_problem, invoice    2026-11-19                   B/L CWPS26288913 - Booking CAT40294805 - QUETZAL / CUB6129 - please confirm sailing date, 
+[MEDIA] Revisar: invoice                 2026-11-19                   Re: SML Statement of Account - CUSTOMER NUMBER : 130908 (7 msgs)
+[MEDIA] Revisar: arrival_notice, doc_problem, release 2026-11-19                   KATAPULK - Empty ISO tanks currently in the Port Everglades yard - please confirm list and
+[MEDIA] Revisar: doc_problem, release    2026-11-19                   Fwd: Non-Negotiables Bill Of Lading: CWPN26201444-CAT40307184 | CUB6129 | SHP: EMSERPET | 
+[MEDIA] Revisar: doc_problem, release    2026-11-19                   Fwd: Original Bill Of Lading: CWPN26201443-CAT40307183 | CUB6129 | SHP: EMSERPET | CON: KA
 [MEDIA] Revisar: invoice                 2026-11-18                   Re: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS  (4 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-11-18                   Fwd: Non-Negotiables Bill Of Lading: CWPS26286969-CAT40295243 | CUB6129 | SHP: KATAPULK MA
 [MEDIA] Revisar: doc_problem, release    2026-11-18                   Fwd: Non-Negotiables Bill Of Lading: CWPN26201876-CAT40308797 | CUB6129 | SHP: EMSERPET | 
@@ -75,8 +81,6 @@
 [MEDIA] Revisar: invoice, payment_request 2026-11-18                   Fwd: Crowley Land Transportation Services LLC Invoice _MCL30148468
 [MEDIA] Revisar: invoice, payment_request 2026-11-18                   Fwd: Crowley Land Transportation Services LLC Invoice _MCL30148469
 [MEDIA] Revisar: doc_problem, release    2026-11-18                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 -7 TANKS - (2 msgs)
-[MEDIA] Revisar: invoice                 2026-11-18                   RE: SML Statement of Account - CUSTOMER NUMBER : 130908 (6 msgs)
-[MEDIA] Revisar: booking_change          2026-11-17                   RE: BK# 9241989A Tank Info - SL HARRIER V.342 sailing update (5 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-17                   Re: Return ISO Tanks - World Fuel tanks on DENEB / CUB6046 - CAT40272430 (B/L CWPN26202353 (6 msgs)
 [MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS  (2 msgs)
 [MEDIA] Revisar: arrival_notice, invoice 2026-11-17                   RE: 0875830 // KATAPULK MARKETPLACE // BL# CLAMCWPN26199389 // BKG# CAT40300634 - 7 TANKS- (4 msgs)
