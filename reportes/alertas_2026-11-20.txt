@@ -30,9 +30,12 @@
 [ALTA] Pago pendiente                   HOU9203946A                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40283820                  Booking en movimiento sin marcar como pagado
 [ALTA] Pago pendiente                   CAT40289610                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40294805                  Booking en movimiento sin marcar como pagado
+[ALTA] Pago pendiente                   CAT40295243                  Booking en movimiento sin marcar como pagado
 [ALTA] Invoice nueva                    Crowley #1310                $105,350.00
+[ALTA] Invoice nueva                    Crowley #CLI26001404807      $1,360.00
 [ALTA] Invoices con saldo               CCS (Crowley demurrage) (60) Saldo $59,550.00: #CLU242713E $100 (CAT40139440), #CLU242715E $100 (CAT40139440), #CLU242716E $100 (CAT40139440), #CLU242717E $100 (CAT40142607), #CLU243302E $100 (CAT40149200), #CLU243303E $100 (CAT40149200) … y 54 más
-[ALTA] Invoices con saldo               Crowley (3)                  Saldo $409,568.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610), #1310 $105,350 (CAT40300634)
+[ALTA] Invoices con saldo               Crowley (4)                  Saldo $410,928.71: #1278 $198,869 (CAT40268984), #1288 $105,350 (CAT40233610), #1310 $105,350 (CAT40300634), #CLI26001404807 $1,360 (CAT40233611002)
 [ALTA] Invoices con saldo               Port Consolidated (9)        Saldo $221,233.74: #4361849-3 $23,387, #4361849 $23,433, #4364284-3 $24,904 (CAT40160532), #4364284-1 $24,868 (CAT40160532), #4364284 $25,188 (CAT40160532), #4364284-4 $24,864 (CAT40160532) … y 3 más
 [ALTA] Invoices con saldo               Triton Energy (24)           Saldo $539,404.35: #2325 $21,960, #2323 $25,150, #2322 $25,149, #2324 $25,152, #2326 $26,368, #2327 $25,149 … y 18 más
 [ALTA] Invoices con saldo               Ushine Trucking (5)          Saldo $33,000.00: #FAC0017 $7,500, #FAC0025 $8,500, #FAC0026 $6,000, #FAC0027 $2,500, #FAC0028 $8,500
@@ -61,9 +64,15 @@
 [ALTA] Pago con crédito disponible      Port Consolidated wire 31    Pagado $219,623.93, aplicado $216,977.61, crédito $2,646.32
 [ALTA] Pago con crédito disponible      Crowley wire 34              Pagado $4,596.96, aplicado $0.00, crédito $4,596.96
 [ALTA] ISO Tanks sin próximo booking    5 tanques                    SEGU8093246 DCIU0860253 DCIU0860314 DCIU0753131 SEGU8005271
+[MEDIA] Revisar: doc_problem, release    2026-11-20                   RE: Katapulk NEW Booking Request - 4 ISO Tanks Diesel Fuel (Shipper Own Equipment) - Port  (4 msgs)
+[MEDIA] Revisar: doc_problem             2026-11-20                   RE: [EXTERNAL] New Fuel Quote Request - Booking HOU9317661A for 6 ISO tanks (Gasoline) - O (6 msgs)
+[MEDIA] Revisar: booking_change, doc_problem, invoice 2026-11-20                   RE: B/L CWPS26288913 - Booking CAT40294805 - QUETZAL / CUB6129 - please confirm sailing da (4 msgs)
+[MEDIA] Revisar: release                 2026-11-20                   Katapulk NEW Booking Request - 3 ISO Tanks Gasoline (WF Lease Equipment) - Port Everglades
+[MEDIA] Revisar: invoice                 2026-11-20                   Fill 4 ISO tanks with Diesel ULSD - invoice, loading address and transportation quote
+[MEDIA] Revisar: invoice                 2026-11-20                   DOCUMENTACIÓN Embarque 18 Iso Tanks de Diésel (3 bookings Seaboard) - Buque SL HARRIER V.3
+[MEDIA] Revisar: release                 2026-11-20                   Katapulk NEW Booking Request - 5 x 40' Containers Liquefied Petroleum Gas (Propane Cylinde
 [MEDIA] Revisar: invoice                 2026-11-19                   Re: [EXTERNAL] Katapulk Marketplace LLC - Texas Fuel Tax Export Exception Application and  (6 msgs)
 [MEDIA] Revisar: doc_problem             2026-11-19                   RE: Return ISO Tanks - KATAPULK MARKETPLACE LLC - CUB6129 - CAT40307185, CAT40304123, CAT4 (3 msgs)
-[MEDIA] Revisar: doc_problem, invoice    2026-11-19                   RE: B/L CWPS26288913 - Booking CAT40294805 - QUETZAL / CUB6129 - please confirm sailing da (2 msgs)
 [MEDIA] Revisar: doc_problem, release    2026-11-19                   Fwd: Non-Negotiables Bill Of Lading: CWPN26201445-CAT40307185 | CUB6129 | SHP: EMSERPET | 
 [MEDIA] Revisar: doc_problem, release    2026-11-19                   Fwd: Non-Negotiables Bill Of Lading: CWPN26199397-CAT40300653 | CUB6129 | SHP: EMSERPET | 
 [MEDIA] Revisar: doc_problem, release    2026-11-19                   Fwd: Non-Negotiables Bill Of Lading: CWPN26202352-CAT40304123 | CUB6129 | SHP: EMSERPET | 
